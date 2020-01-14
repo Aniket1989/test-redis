@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  redis:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-14T13:57:06.498318+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1b7d57647c80e0b004c601f3406b9a1ea881f4269b99720c3ff53682817d5db0
+    name: redis
+    urls:
+    - https://github.com/Aniket1989/test-redis.git/redis-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-14T13:57:06.4950937+05:30"
